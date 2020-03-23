@@ -1,0 +1,45 @@
+/* body {
+  float: right;
+  margin-top: 20px;
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+} */
+
+a {
+  color: #00B7FF;
+}
+
+/*
+the side bar
+*/
+.col-sm-2 {
+  margin-top: 70px;
+  float: left;
+  width: 290px;
+  background-color: white;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+/* the right bar -- the content
+*/
+.col-sm-10{
+  
+  float: right;
+  margin-top: -370px;
+  padding: 150px;
+
+}
+
+ /* .siderbar-nav {
+  float: right;
+  width: 2000px;
+  margin-top: 30px;
+  padding: 0;
+  list-style: none;
+}  */
+
+/* .page-side {
+  float: right;
+  width: 200px;
+  background-color: aliceblue;
+} */
